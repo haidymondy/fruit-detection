@@ -1,0 +1,5 @@
+train: /kaggle/working/object_detection/train/images
+val: /kaggle/working/object_detection/test/images
+
+nc: 3
+names: ['apple', 'banana', 'orange']
